@@ -70,7 +70,7 @@ If you're curious about AI, document processing, or multimodal applications, thi
 2. **Select a Mode**: Choose "Document Chat" or "Image-based Chat" from the sidebar.
 3. **Upload Files**:
    - For Document Chat: Upload a PDF or CSV.
-   - For Image-based Chat: Upload a PNG/JPG (optional).
+   - For Image-based Chat: Upload a PNG/JPG.
 4. **Pick a Model**: Select an available Ollama model from the dropdown.
 5. **Ask Questions**: Type your question in the chat input and get responses based on the uploaded content or model knowledge.
 6. **Clear History**: Use the sidebar button to reset the chat.
@@ -83,13 +83,10 @@ Below are example screenshots demonstrating the app in action. These showcase th
 
 ### Document Chat Example
 ![Document Chat Demo](images/document_chat_demo.png)  
-*Caption*: Asking a question about an uploaded PDF using the RAG system.
+
 
 ### Image-based Chat Example
 ![Image Chat Demo](images/image_chat_demo.png)  
-*Caption*: Analyzing an uploaded image with a question using the LLaVA model.
-
-*Note*: To add your own screenshots, capture them while running the app, save them in an `images/` folder in your repo, and update the paths above accordingly.
 
 ---
 
@@ -119,6 +116,3 @@ This is a personal learning project, but feel free to fork and experiment! Submi
 
 ---
 
-Happy experimenting with your local AI chatbot! Let me know if you'd like further adjustments to this README.
-
---- 
