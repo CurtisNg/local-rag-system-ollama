@@ -66,7 +66,7 @@ If you're curious about AI, document processing, or multimodal applications, thi
 
 ## Usage
 
-1. **Launch the App**: After running the command above, open your browser at `http://localhost:8501`.
+1. **Launch the App**: After running the command above, open it in your browser.
 2. **Select a Mode**: Choose "Document Chat" or "Image-based Chat" from the sidebar.
 3. **Upload Files**:
    - For Document Chat: Upload a PDF or CSV.
